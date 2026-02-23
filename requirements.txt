@@ -1,8 +1,4 @@
 streamlit
-PyPDF2
-sentence-transformers
-scikit-learn
-numpy
+pyPDF2
 pandas 
-matplotlib
-
+numpy
