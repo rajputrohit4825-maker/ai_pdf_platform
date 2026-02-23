@@ -3,4 +3,6 @@ PyPDF2
 sentence-transformers
 scikit-learn
 numpy
-sqlite3
+pandas 
+matplotlib
+
